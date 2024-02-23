@@ -1,7 +1,3 @@
-<p align='center'>
-  <img src='https://www.hidupbanyakrasa.com/requirement/images/ext/smoke.gif' alt='..'>
-</p>
-
 ```
 Bio : [
 
